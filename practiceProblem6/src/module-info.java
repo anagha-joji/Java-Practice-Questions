@@ -1,0 +1,2 @@
+module practiceProblem6 {
+}
